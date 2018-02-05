@@ -8,7 +8,7 @@ Ejemplo 1:
 from naoqi import ALProxy
 
 #Conexión
-tts = ALProxy("ALTextToSpeech","127.0.0.1",49908)
+tts = ALProxy("ALTextToSpeech","127.0.0.1",9559)
 
 #
-tts.say ("Hola mundo!")
+tts.say ("Hola mundo! 2")
